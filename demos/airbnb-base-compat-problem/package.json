@@ -1,0 +1,13 @@
+{
+  "name": "airbnb-base-compat-problem",
+  "version": "1.0.0",
+  "description": "airbnb-base compatibility problem",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint index.js"
+  },
+  "dependencies": {
+    "eslint": "8.45.0",
+    "eslint-config-airbnb-base": "15.0.0"
+  }
+}
