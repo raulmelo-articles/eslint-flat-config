@@ -1,0 +1,5 @@
+{
+  "name": "eslint-flat-blog-post-demo",
+  "private": true,
+  "description": "A bunch of small demos for ESLint's flat config blog post."
+}
