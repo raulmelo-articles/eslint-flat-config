@@ -1,0 +1,12 @@
+{
+  "name": "basic-cjs",
+  "version": "1.0.0",
+  "description": "Basic CJS example",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:eslintrc": "ESLINT_USE_FLAT_CONFIG=false eslint . --rulesdir eslint/rules"
+  },
+  "dependencies": {
+    "eslint": "8.45.0"
+  }
+}
