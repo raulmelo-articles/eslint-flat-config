@@ -30,28 +30,6 @@ importers:
         specifier: 15.0.0
         version: 15.0.0(eslint-plugin-import@2.27.5)(eslint@8.45.0)
 
-  demos/airbnb-eslintrc:
-    dependencies:
-      eslint:
-        specifier: 8.45.0
-        version: 8.45.0
-      eslint-config-airbnb-base:
-        specifier: 15.0.0
-        version: 15.0.0(eslint-plugin-import@2.27.5)(eslint@8.45.0)
-
-  demos/airbnb-flat-config:
-    dependencies:
-      eslint:
-        specifier: 8.45.0
-        version: 8.45.0
-      eslint-config-airbnb-base:
-        specifier: 15.0.0
-        version: 15.0.0(eslint-plugin-import@2.27.5)(eslint@8.45.0)
-    devDependencies:
-      '@eslint/eslintrc':
-        specifier: 2.1.0
-        version: 2.1.0
-
   demos/basic-cjs:
     dependencies:
       eslint:
