@@ -1,0 +1,12 @@
+{
+  "name": "override-rules",
+  "version": "1.0.0",
+  "description": "Override rules in flat config",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "eslint": "8.45.0"
+  }
+}
