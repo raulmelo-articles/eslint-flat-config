@@ -1,0 +1,12 @@
+{
+  "name": "global-ignore-eslintignore",
+  "version": "1.0.0",
+  "description": "Demo for the new global ignores strategy",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "eslint": "8.45.0"
+  }
+}
