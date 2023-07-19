@@ -4,7 +4,7 @@
   "description": "Importing plugin",
   "type": "module",
   "scripts": {
-    "lint": "eslint index.js"
+    "lint": "eslint ."
   },
   "devDependencies": {
     "eslint": "8.45.0",

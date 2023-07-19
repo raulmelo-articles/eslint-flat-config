@@ -4,7 +4,7 @@
   "description": "airbnb-base compatibility problem fixed",
   "type": "module",
   "scripts": {
-    "lint": "eslint index.js"
+    "lint": "eslint ."
   },
   "dependencies": {
     "eslint": "8.45.0",

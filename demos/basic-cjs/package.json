@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Basic CJS example",
   "scripts": {
-    "lint": "eslint index.js"
+    "lint": "eslint ."
   },
   "dependencies": {
     "eslint": "8.45.0"
