@@ -1,0 +1,11 @@
+{
+  "name": "basic-cjs",
+  "version": "1.0.0",
+  "description": "Basic CJS example",
+  "scripts": {
+    "lint": "eslint index.js"
+  },
+  "dependencies": {
+    "eslint": "8.45.0"
+  }
+}
