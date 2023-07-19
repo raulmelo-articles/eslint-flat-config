@@ -1,0 +1,12 @@
+{
+  "name": "basic-esm",
+  "version": "1.0.0",
+  "description": "Basic ESM example",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint index.js"
+  },
+  "dependencies": {
+    "eslint": "8.45.0"
+  }
+}
