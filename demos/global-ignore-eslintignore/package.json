@@ -4,7 +4,8 @@
   "description": "Demo for the new global ignores strategy",
   "type": "module",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "lint:eslintrc": "ESLINT_USE_FLAT_CONFIG=false eslint ."
   },
   "dependencies": {
     "eslint": "8.45.0"

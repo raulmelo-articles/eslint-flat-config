@@ -1,7 +1,7 @@
 /** @type {import('eslint').Linter.Config} */
 module.export = {
+  files: ["**/*.js"],
   rules: {
-    semi: "error",
     "prefer-const": "error",
   },
 };
