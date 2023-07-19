@@ -1,0 +1,12 @@
+{
+  "name": "ignore-patterns",
+  "version": "1.0.0",
+  "description": "Alternative to ignorePatterns",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "eslint": "8.45.0"
+  }
+}
