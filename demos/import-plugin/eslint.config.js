@@ -3,7 +3,7 @@ import jsdoc from "eslint-plugin-jsdoc";
 /** @type {import('eslint').Linter.FlatConfig[]} */
 export default [
   {
-    files: ["*.js"],
+    files: ["**/*.js"],
     plugins: {
       jsdoc,
     },

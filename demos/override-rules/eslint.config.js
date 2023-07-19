@@ -1,13 +1,13 @@
 /** @type {import('eslint').Linter.FlatConfig[]} */
 export default [
   {
-    files: ["*.js"],
+    files: ["**/*.js"],
     rules: {
       "prefer-const": "warn",
     },
   },
   {
-    files: ["*.ts"],
+    files: ["**/*.ts"],
     rules: {
       "prefer-const": "error",
     },
