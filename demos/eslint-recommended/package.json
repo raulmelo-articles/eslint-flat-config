@@ -1,0 +1,14 @@
+{
+  "name": "eslint-recommended",
+  "version": "1.0.0",
+  "description": "Example of using ESLint recommended rules",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:eslintrc": "ESLINT_USE_FLAT_CONFIG=false eslint ."
+  },
+  "devDependencies": {
+    "@eslint/js": "8.45.0",
+    "eslint": "8.45.0"
+  }
+}
