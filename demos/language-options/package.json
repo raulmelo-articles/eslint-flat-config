@@ -1,0 +1,19 @@
+{
+  "name": "language-options",
+  "version": "1.0.0",
+  "description": "Example using language options",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:eslintrc": "ESLINT_USE_FLAT_CONFIG=false eslint ."
+  },
+  "dependencies": {
+    "eslint": "8.45.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.22.9",
+    "@babel/eslint-parser": "7.22.9",
+    "@babel/preset-env": "7.22.9",
+    "@babel/preset-react": "7.22.5"
+  }
+}
