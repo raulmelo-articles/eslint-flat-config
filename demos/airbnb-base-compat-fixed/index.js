@@ -1,3 +1,3 @@
-let name = "hoi";
+let message = "Hello World";
 
 let foo = () => 0;
