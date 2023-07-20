@@ -1,5 +1,5 @@
 /** @type {import('eslint').Linter.Config} */
-module.export = {
+module.exports = {
   rules: {
     "prefer-const": "warn",
   },
