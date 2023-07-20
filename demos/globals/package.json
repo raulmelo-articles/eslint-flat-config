@@ -1,0 +1,14 @@
+{
+  "name": "globals",
+  "version": "1.0.0",
+  "description": "Example of how to use globals",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:eslintrc": "ESLINT_USE_FLAT_CONFIG=false eslint index.js"
+  },
+  "devDependencies": {
+    "eslint": "8.45.0",
+    "globals": "13.20.0"
+  }
+}
