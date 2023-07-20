@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "lint": "eslint .",
-    "lint:eslintrc": "ESLINT_USE_FLAT_CONFIG=false eslint index.js"
+    "lint:eslintrc": "ESLINT_USE_FLAT_CONFIG=false eslint ."
   },
   "devDependencies": {
     "eslint": "8.45.0",
