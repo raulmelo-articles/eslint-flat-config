@@ -54,6 +54,15 @@ importers:
         specifier: 8.45.0
         version: 8.45.0
 
+  demos/globals:
+    devDependencies:
+      eslint:
+        specifier: 8.45.0
+        version: 8.45.0
+      globals:
+        specifier: 13.20.0
+        version: 13.20.0
+
   demos/ignore-patterns:
     dependencies:
       eslint:
