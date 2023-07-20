@@ -1,7 +1,7 @@
 {
-  "name": "basic-cjs",
+  "name": "custom-rules",
   "version": "1.0.0",
-  "description": "Basic CJS example",
+  "description": "Example of how to use custom rules in ESLint flat config",
   "scripts": {
     "lint": "eslint .",
     "lint:eslintrc": "ESLINT_USE_FLAT_CONFIG=false eslint . --rulesdir eslint/rules"
