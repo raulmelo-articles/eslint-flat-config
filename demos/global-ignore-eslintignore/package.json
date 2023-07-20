@@ -7,7 +7,7 @@
     "lint": "eslint .",
     "lint:eslintrc": "ESLINT_USE_FLAT_CONFIG=false eslint ."
   },
-  "dependencies": {
+  "devDependencies": {
     "eslint": "8.45.0"
   }
 }

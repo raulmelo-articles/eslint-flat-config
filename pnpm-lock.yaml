@@ -31,7 +31,7 @@ importers:
         version: 15.0.0(eslint-plugin-import@2.27.5)(eslint@8.45.0)
 
   demos/basic-cjs:
-    dependencies:
+    devDependencies:
       eslint:
         specifier: 8.45.0
         version: 8.45.0
