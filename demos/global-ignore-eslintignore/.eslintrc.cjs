@@ -1,7 +1,12 @@
 /** @type {import('eslint').Linter.Config} */
 module.exports = {
-  files: ["**/*.js"],
+  ignorePatterns: ["eslint.config.js"],
+  parserOptions: {
+    ecmaVersion: "latest",
+    sourceType: "module",
+  },
   rules: {
+    semi: "error",
     "prefer-const": "error",
   },
 };
